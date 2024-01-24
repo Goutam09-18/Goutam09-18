@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Goutam09-18
-- 👀 I’m interested in ... data science course
-- 🌱 I’m currently learning ... data science pro course in pwskills organization 
+- 👋 Hi, I’m K.Goutam Varma
+- 👀 I’m interested in ... Data Science Course
+- 🌱 I’m currently learning ... Data Science Full Stack Pro Course in PW Skills Organization 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...via email ;- varmagoutam418@gmail.com
 
